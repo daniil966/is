@@ -24,8 +24,8 @@ const props = withDefaults(defineProps<IProps>(), {
   gap: 8px;
   align-items: center;
   justify-content: center;
-  height: 40px;
-  padding: 16px 32px;
+  height: 60px;
+  padding: 32px 32px;
   font-size: 1rem;
   line-height: 1.5;
   color: var(--color-white);
