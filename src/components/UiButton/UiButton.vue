@@ -28,8 +28,8 @@ const props = withDefaults(defineProps<IProps>(), {
   padding: 32px 32px;
   font-size: 1rem;
   line-height: 1.5;
-  color: var(--color-white);
-  background: var(--color-primary);
+  color: #000;
+  background: #fff;
   border-radius: 16px;
 
   &[data-layout='secondary'] {
